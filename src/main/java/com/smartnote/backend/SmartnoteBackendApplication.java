@@ -11,4 +11,5 @@ public class SmartnoteBackendApplication {
 		SpringApplication.run(SmartnoteBackendApplication.class, args);
 	}
 
+
 }
